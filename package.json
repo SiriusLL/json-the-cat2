@@ -18,5 +18,9 @@
   "homepage": "https://github.com/SiriusLL/json-the-cat2#readme",
   "dependencies": {
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.1"
   }
 }
