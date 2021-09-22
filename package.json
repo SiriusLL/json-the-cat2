@@ -1,0 +1,22 @@
+{
+  "name": "json-the-cat2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "breedFetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiriusLL/json-the-cat2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiriusLL/json-the-cat2/issues"
+  },
+  "homepage": "https://github.com/SiriusLL/json-the-cat2#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
